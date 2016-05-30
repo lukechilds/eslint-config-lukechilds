@@ -100,7 +100,7 @@ module.exports = {
     "no-magic-numbers": [
       "error",
       { "ignore": [-1] }
-    ] 
+    ]
     "no-mixed-requires": "error",
     "no-multi-spaces": "error",
     "no-multi-str": "error",
@@ -124,7 +124,7 @@ module.exports = {
     "no-restricted-imports": "error",
     "no-restricted-modules": "error",
     "no-restricted-syntax": "error",
-    "no-return-assign": "error",
+    "no-return-assign": "off",
     "no-script-url": "error",
     "no-self-compare": "error",
     "no-sequences": "error",
