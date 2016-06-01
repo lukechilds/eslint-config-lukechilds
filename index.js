@@ -50,7 +50,10 @@ module.exports = {
     "key-spacing": "error",
     "keyword-spacing": [
       "error",
-      { "overrides": { "if": { "after": false } } }
+      { "overrides": {
+          "if": { "after": false },
+          "for": { "after": false }
+      } }
     ],
     "linebreak-style": [
       "error",
