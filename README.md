@@ -1,4 +1,4 @@
-# eslint-config-lukechilds
+# eslint-config-lukechilds [![Build Status](https://travis-ci.org/lukechilds/eslint-config-lukechilds.svg?branch=master)](https://travis-ci.org/lukechilds/eslint-config-lukechilds)
 
 My personal eslint preferences
 
