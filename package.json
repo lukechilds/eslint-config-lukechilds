@@ -4,7 +4,7 @@
   "description": "My personal eslint preferences",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint -c index.js index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lukechilds/eslint-config-lukechilds/issues"
   },
-  "homepage": "https://github.com/lukechilds/eslint-config-lukechilds#readme"
+  "homepage": "https://github.com/lukechilds/eslint-config-lukechilds#readme",
+  "devDependencies": {
+    "eslint": "^2.11.1"
+  }
 }
