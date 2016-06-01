@@ -102,7 +102,10 @@ module.exports = {
       { "ignore": [-1, 0] }
     ],
     "no-mixed-requires": "error",
-    "no-multi-spaces": "error",
+    "no-multi-spaces": [
+      "error",
+      { "exceptions": { "AssignmentExpression": true } }
+    ],
     "no-multi-str": "error",
     "no-multiple-empty-lines": "error",
     "no-native-reassign": "error",
