@@ -102,7 +102,7 @@ module.exports = {
     "no-loop-func": "error",
     "no-magic-numbers": [
       "error",
-      { "ignore": [-1, 0] }
+      { "ignore": [-1, 0, 1] }
     ],
     "no-mixed-requires": "error",
     "no-multi-spaces": [
