@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lukechilds",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "My personal eslint preferences",
   "main": "index.js",
   "scripts": {
