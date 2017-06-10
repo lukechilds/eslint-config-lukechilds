@@ -1,7 +1,5 @@
 # eslint-config-lukechilds [![Build Status](https://travis-ci.org/lukechilds/eslint-config-lukechilds.svg?branch=master)](https://travis-ci.org/lukechilds/eslint-config-lukechilds)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/lukechilds/eslint-config-lukechilds.svg)](https://greenkeeper.io/)
-
 My personal eslint preferences
 
 ## Deprecated
