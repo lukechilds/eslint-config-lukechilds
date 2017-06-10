@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/lukechilds/eslint-config-lukechilds#readme",
   "devDependencies": {
-    "eslint": "^2.11.1"
+    "eslint": "^3.19.0"
   }
 }
